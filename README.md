@@ -12,4 +12,10 @@ This year, I'm working as the Google Developer Student Club Lead and the Microso
 
 Feel free to check out my [repositories](https://github.com/daks001?tab=repositories)!
 
-<img align='left' width="350" src="https://github-readme-stats.vercel.app/api?username=daks001&count_private=true&show_icons=true&theme=vue-dark">
+### Some cool stats:
+
+<img align='center' width="500" src="https://github-readme-stats.vercel.app/api?username=daks001&count_private=true&show_icons=true&theme=vue-dark">
+
+<img align='center' width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daks001&layout=compact&theme=vue-dark">
+
+![](https://komarev.com/ghpvc/?username=daks001&color=33FFBB)
