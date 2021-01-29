@@ -11,3 +11,5 @@ I've been exploring web development and simple game development through personal
 This year, I'm working as the Google Developer Student Club Lead and the Microsoft Learn Student Ambassador at Texas A&M University. 
 
 Feel free to check out my [repositories](https://github.com/daks001?tab=repositories)!
+
+<img align='left' width="350" src="https://github-readme-stats.vercel.app/api?username=daks001&count_private=true&show_icons=true&theme=vue-dark">
