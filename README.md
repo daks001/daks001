@@ -4,13 +4,11 @@
 
 ## Hi, I'm Dakshika, and welcome to my GitHub :octocat:
 
-I'm a junior at Texas A&M University, majoring in Computer Science and minoring in Statistics! :woman_technologist: 
+I'm a senior at Texas A&M University, majoring in Computer Science and minoring in Statistics! :woman_technologist: 
 
 I've been exploring web development and simple game development through personal projects. I'm also interested in data science and machine learning, and have done research in these areas. 
 
-Last year, I worked as the Google Developer Student Club Lead and the Microsoft Learn Student Ambassador at Texas A&M University. 
-
-Feel free to check out my [repositories](https://github.com/daks001?tab=repositories)!
+Feel free to check out my [website](https://www.dakshika.live) or connect with me on [LinkedIn](https://linkedin.com/in/dakshika)!
 
 ### Some cool stats:
 
